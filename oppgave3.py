@@ -1,0 +1,1 @@
+# Lag et script som printer tilfeldig tall mellom 1 og 50 i en while-loop. Loopen skal avsluttes det trekkes et tall større enn 40.

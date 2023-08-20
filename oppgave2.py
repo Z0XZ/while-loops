@@ -1,0 +1,1 @@
+# Lag et script som printer alle kvadrattallene som har en verdi mindre enn 10000 ved å bruke en while-løkke.
